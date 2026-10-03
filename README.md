@@ -137,7 +137,7 @@ WordPress 后台的主题截图要求尺寸为 **1200 × 900 像素**（PNG 格�
 ### 本地开发
 
 ```bash
-git clone https://github.com/mornrain/nimbus-docs.git
+git clone https://github.com/mornrain-lin/nimbus-docs.git
 cd nimbus-docs
 php -l functions.php   # 语法自检
 ```
@@ -345,7 +345,7 @@ add_filter( 'nimbus_option_pager_enabled', '__return_false' );
 
 MIT License
 
-Copyright (c) 2026 MornRain
+Copyright (c) 2026 mornrain-lin
 
 详细条款见 [LICENSE](LICENSE) 文件。
 
